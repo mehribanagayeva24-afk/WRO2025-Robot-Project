@@ -1,10 +1,15 @@
 Layihədə istifadə olunan avadanlıqlar və funksiyaları
 
-- Raspberry Pi 3B Plus – Layihənin mərkəzi idarəetmə bloku, proqramları işlədən cihaz  
-- Raspberry Pi Kamera Modulu – Video və şəkil çəkmək üçün istifadə olunur  
-- TT motor (4 ədəd) – Robotun hərəkətini təmin edən mühərriklər  
-- L293D Motor Sürücüsü – Motorları idarə etmək üçün istifadə olunur  
-- Ultrasonik sensor – Ətraf mühitdə məsafəni ölçmək üçün sensor  
-- 64GB yaddaş kartı – Proqram və məlumatların saxlanması üçün yaddaş  
-- LM2596 Step-down modul – Gərginliyi tənzimləyərək digər komponentlərə təhlükəsiz enerji təmin edir  
-- 20000mAh Powerbank – Layihəyə enerji verən portativ batareya  
+- ✅Raspberry Pi 3B Plus – Layihənin mərkəzi idarəetmə bloku, proqramları işlədən cihaz  
+- ✅Raspberry Pi Kamera Modulu – Video və şəkil çəkmək üçün istifadə olunur  
+- ✅TT motor (4 ədəd) – Robotun hərəkətini təmin edən mühərriklər  
+- ✅L293D Motor Sürücüsü – Motorları idarə etmək üçün istifadə olunur  
+- ✅Ultrasonik sensor – Ətraf mühitdə məsafəni ölçmək üçün sensor  
+- ✅64GB yaddaş kartı – Proqram və məlumatların saxlanması üçün yaddaş  
+- ✅LM2596 Step-down modul – Gərginliyi tənzimləyərək digər komponentlərə təhlükəsiz enerji təmin edir  
+- ✅20000mAh Powerbank – Layihəyə enerji verən portativ batareya  
+
+İstifadə olunan proqramlar və iş prinsipi
+
+✅cad.onshape – 3D model yaratmaq üçün olunub
+✅Python – kod və süni intellekt yazmaq olunur
